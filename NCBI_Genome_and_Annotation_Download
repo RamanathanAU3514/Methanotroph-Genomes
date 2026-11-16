@@ -1,0 +1,2 @@
+Purpose
+Download the genome sequence and genome annotation files for each assigned organism from the NCBI Assembly database, then store the files in a consistent folder structure. Repeat the procedure for all 124 assigned organisms.
